@@ -1,0 +1,15 @@
+Nombre de la enfermedad
+Pregunta principal
+Pregunta secundaria%Enfermedad%Descripcion%Tratamiento%T
+Pregunta secundaria%Enfermedad%Descripcion%Tratamiento%T
+Pregunta secundaria%Enfermedad%Descripcion%Tratamiento%T
+.
+.
+Pregunta secundaria%Enfermedad%Descripcion%Tratamiento%F
+Pregunta secundaria%Enfermedad%Descripcion%Tratamiento%F
+Pregunta secundaria%Enfermedad%Descripcion%Tratamiento%F
+.
+.
+
+
+NOTA IMPORTANTE: No usar tildes o caracteres raros (ñ)
